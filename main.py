@@ -1,4 +1,4 @@
-from store_llm_log import store_llm_log
+from store_llm_logs import store_llm_log
 
 # Example usage:
 if __name__ == "__main__":
